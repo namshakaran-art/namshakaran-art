@@ -5,7 +5,7 @@
 - 🚀 Currently working on React.js projects and improving full-stack skills  
 - 🔭 Exploring backend development and system design  
 - 🤝 Open to collaborating on web development & open-source projects  
-- 🌱 Learning advanced JavaScript, React, and backend technologies  
+- 🌱 Learning advanced JavaScript, React.  
 - 💬 Ask me about React, UI design, or frontend architecture  
 - ⚡ Fun fact: I enjoy creating minimal and interactive user experiences  
 
