@@ -1,56 +1,85 @@
-# 💫 About Me
+# 👋 Hi, I'm Karan Namsha
 
-👨‍💻 Passionate Frontend Developer focused on building clean and modern UI.
+## 💫 About Me
 
-- 🚀 Currently working on React.js projects and improving full-stack skills  
-- 🔭 Exploring backend development and system design  
-- 🤝 Open to collaborating on web development & open-source projects  
-- 🌱 Learning advanced JavaScript, React.  
-- 💬 Ask me about React, UI design, or frontend architecture  
-- ⚡ Fun fact: I enjoy creating minimal and interactive user experiences  
+🧪 QA Engineer focused on Software Testing and Quality Assurance.
 
----
+🚀 Skilled in Manual Testing, Test Case Design, Test Execution, Bug Reporting, and understanding of SDLC & STLC processes.
 
-## 🌐 Socials
+🔍 Passionate about identifying defects, improving software quality, and ensuring reliable user experiences through effective testing practices.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karannamsha)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namshakaran123@gmail.com)
+📚 Currently enhancing skills in API Testing using Postman, SQL, and Automation Testing concepts.
+
+🤝 Open to opportunities and collaborations in Quality Assurance and Software Testing.
 
 ---
 
-## 💻 Tech Stack
+## 🧪 QA Skills
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Test Scenario Creation
+- Test Case Writing
+- Test Execution
+- Defect Reporting
+- Bug Life Cycle
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Exploratory Testing
+- API Testing (Postman)
+- SQL Basics
+- SDLC & STLC
 
-**Tools & Deployment:**  
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+---
+
+## 🛠 Testing Tools
+
+- Jira
+- Postman
+- GitHub
+- Microsoft Excel
+- Chrome DevTools
+
+---
+
+## 📂 QA Testing Projects
+
+### 🛒 E-commerce Website Testing
+
+- Created detailed Test Scenarios and Test Cases
+- Executed functional testing for:
+  - Login
+  - Registration
+  - Search
+  - Cart
+  - Checkout
+- Documented defects with proper bug reports
+- Added screenshots and reproduction steps
+- Performed API testing using Postman
+
+---
+
+## 💻 Technical Knowledge
+
+- HTML5
+- CSS3
+- JavaScript
+- React.js
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=namshakaran-art&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats]
 
-![Streak](https://streak-stats.demolab.com?user=namshakaran-art&theme=dark&hide_border=false)
+![GitHub Streak]
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=namshakaran-art&theme=dark&layout=compact)
+![Top Languages]
 
 ---
 
 ## ✍️ Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 👀 Profile Views
-
-![Views](https://komarev.com/ghpvc/?username=namshakaran-art&color=0e75b6)
+"Quality means doing it right when no one is looking."
